@@ -145,7 +145,7 @@
 ###
 ---
 <h2>🐍 My Contributions 🐍</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Success1308/Success1308/output/github-contribution-grid-snake.svg" />
+![snake animation](https://github.com/<Success1308>/<Success1308>/blob/output/github-contribution-grid-snake2.svg)
 
 
 

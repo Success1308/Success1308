@@ -124,9 +124,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-
  <a href="https://github.com/Success1308/CS-50">
-  <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Success1308&repo=CS-50&theme=react&border_color=61dafb&border_radius=10"" />
+  <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Success1308&repo=CS-50&theme=react&border_color=61dafb&border_radius=10" alt="CS50 Projects Repository" />
   <p>  <br>
   </p>
 </a>

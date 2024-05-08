@@ -145,7 +145,7 @@
 ###
 ---
 
-![snake animation](https://github.com/<Success1308>/<Success1308>/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Success1308/Success1308/output/snake.svg" alt="Snake animation" />
 
 
 

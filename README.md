@@ -152,13 +152,13 @@
 </div>
 
 ###
-<!---
+
 <h2>🐍 My Contributions 🐍</h2>
 
-![snake gif](https://github.com/Success1308/Success1308/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Success1308/Success1308/output/snake.svg" alt="Snake animation" />
 
 
-### -->
+###
 ---
 <h2 align="center">Views !</h2>
 

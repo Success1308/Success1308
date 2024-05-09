@@ -145,7 +145,7 @@
 ###
 ---
 <h2>🐍 My Contributions 🐍</h2>
-![snake animation](https://github.com/success1308/success1308/blob/output/github-contribution-grid-snake2.svg)]
+![snake animation](https://github.com/success1308/success1308/blob/output/github-contribution-grid-snake2.svg)
 
 
 

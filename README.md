@@ -131,7 +131,7 @@
 </a>
 
  <a href="https://github.com/Success1308/The-odin-project">
-  <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Success1308&repo=CS-50&theme=chartreuse-dark&border_color=61dafb&border_radius=10" alt="The-odin-project Repository" />
+  <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Success1308&repo=The-odin-project&theme=chartreuse-dark&border_color=61dafb&border_radius=10" alt="The-odin-project Repository" />
 </a>
 
 ---

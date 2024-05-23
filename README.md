@@ -162,8 +162,10 @@
 <h2 align="center">🏅 Ranks 🏅</h2>
 
 <div align="center">
-![Java rank](https://github.com/Success1308/Success1308/assets/167788445/e2ecf8fe-2f6a-46cf-bb18-45b05ac53961) 
+<div align="center">
+  <img src="https://github.com/Success1308/Success1308/assets/167788445/712266a9-25e0-4c31-897a-4e5159419f9a" alt="Java rank" />
 
+</div>
 </div>
 
 ###

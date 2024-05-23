@@ -158,6 +158,14 @@
 
 <img src="https://raw.githubusercontent.com/Success1308/Success1308/output/snake.svg" alt="Snake animation" />
 
+###
+<h2 align="center">🏅 Medals 🏅</h2>
+
+<div align="center">
+![Uploading Java rank.png…]()
+
+
+</div>
 
 ###
 ---

@@ -161,13 +161,14 @@
 ###
 <h2 align="center">🏅 Ranks 🏅</h2>
 
-<div align="center">
+
 <div align="center">
   <img src="https://github.com/Success1308/Success1308/assets/167788445/712266a9-25e0-4c31-897a-4e5159419f9a" alt="Java rank" />
-  <img src="https://github.com/Success1308/Success1308/assets/167788445/5ee9a37a-550b-4102-858e-be3e73b5f0b2" alt="leetcode" />
+
+  <img src="https://github.com/Success1308/Success1308/assets/167788445/4cfe199a-5c30-4eb0-9c0c-47689cc67ff5" alt="leetcode" />
 
 </div>
-</div>
+
 
 ###
 ---

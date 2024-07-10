@@ -189,7 +189,7 @@
 ###
 
 <div align="center">
-  <a href="https:www.linkedin.com/in/success-ambaliya"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo" /></a><a href="https://codepen.io/Success-Ambaliya"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="80" height="40" alt="codepen logo" /></a><a href="mailto:success.ambaliya@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/success-ambaliya"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo" /></a><a href="https://codepen.io/Success-Ambaliya"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="80" height="40" alt="codepen logo" /></a><a href="mailto:success.ambaliya@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo" /></a>
 </div>
 
 

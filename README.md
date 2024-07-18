@@ -140,11 +140,11 @@
 
 ---
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align="center" >
 
+<div align="center" >  
   
   ![Success's GitHub stats](https://github-readme-stats.vercel.app/api?username=Success1308&show_icons=true&theme=chartreuse-dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Success1308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="195" width = "49%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Success1308&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="195" width = "49%" alt="languages graph" />
 
 <h2 align="center">🔥  Streak 🔥</h2>
 

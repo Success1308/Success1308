@@ -4,7 +4,6 @@
           
 <p align="left">My name is Success Ambaliya and I'm a web developer, from Toronto, Ontario, Canada.</p>
 
-
 ---
 <h2 align="left">About me</h2>
 
